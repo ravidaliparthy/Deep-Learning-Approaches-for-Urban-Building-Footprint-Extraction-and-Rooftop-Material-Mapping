@@ -1274,7 +1274,6 @@ This is expected. SegNet's architecture requires more epochs (~100+) to converge
 Daliparthy Ravi Krishna Charan and Bilavampalli Dinesh Reddy.  
 *Deep Learning Approaches for Urban Building Footprint Extraction and Rooftop Material Mapping.*  
 ICT400 Major Project, SASTRA Deemed to be University, May 2026.  
-Supervisor: Dr. Manjula K R.
 
 ---
 
